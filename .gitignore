@@ -1,0 +1,39 @@
+# root folders
+/.gradle/
+/.gradletasknamecache
+/.idea/
+/.metadata/
+/.recommenders/
+/.settings/
+/.sonarlint/
+/bin/
+/build/
+/buildGradle/
+/logs/
+/node_modules/
+/out/
+/RemoteSystemsTempFiles/
+/queue
+
+# files in each subfolder
+*.classpath
+*.factorypath
+*.iml
+*.ipr
+*.iws
+*.project
+*.pydevproject
+
+# subfolders in each subfolder
+*/.apt_generated/
+*/.gradle/
+*/.settings/
+*/bin/
+*/build/
+*/buildGradle/
+*/ivylib/
+*/out/
+*/src/main/generated/
+*/target/
+
+# please add to correct section in ALPHABETICAL order
